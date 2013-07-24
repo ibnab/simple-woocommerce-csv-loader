@@ -8,7 +8,7 @@ Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is user-friendly importer, with clear step-by-step instructions helps to import Categories, Tags, Products and other Product details into WooCommerce.
+Import Categories, Tags, Images, Products and other Product details into WooCommerce.
 
 == Description ==
 
