@@ -20,38 +20,7 @@ Mass import hundreds, even thousands of Products into your WooCommerce store wit
 * Loads images via URL or local file path. (Now detects and skips duplicate images!)
 * Loads hierarchical category structures (see Importing Hierarchical Categories below.)
 * Lots of other great features suggested by plugin users (see Cool Stuff It/You Can Do and Full List of Importable Attributes below.)
-Support Blog: httphttp://freebloggingtricks.com/import-woocommerce-csv-products-file/
-= Full List of Loadable Attributes =
-
-* post_title (Name)
-* post_content (Description)
-* post_excerpt (Short Description)
-* _price (Price)
-* _sale_price (Sale Price)
-* _tax_status (Tax Status)
-* _tax_class (Tax Class)
-* _visibility (Visibility)
-* _featured (Featured)
-* _weight (Weight)
-* _length (Length)
-* _width (Width)
-* _height (Height)
-* _sku (SKU)
-* _downloadable (Downloadable)
-* _virtual (Virtual)
-* _stock (Stock)
-* _stock_status (Stock Status)
-* _backorders (Backorders)
-* _manage_stock (Manage Stock)
-* product_cat (Categories, by Name or ID)
-* product_tag (Tags, by Name or ID)
-* Custom Fields
-* Product Images (By URL or Local File Path)
-* _button_text (Button Text, for External Products)
-* _product_url (Product URL, for External Products)
-* _file_path (File Path, for Downloadable Product)
-* _download_expiry (Download Expiration, in Days)
-* _download_limit (Download Limit, an integer)
+Support Blog: http://freebloggingtricks.com/import-woocommerce-csv-products-file/
 
 == Installation ==
 
