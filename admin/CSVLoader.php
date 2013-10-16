@@ -332,7 +332,7 @@ for($i=0;$i<count($prod_cats);++$i)
 Check <a href="http://freebloggingtricks.com/">FreeBloggingTricks</a> for WordPress tutorials. Don't forget to follow us on <a href="http://www.twitter.com/freebtricks">Twitter</a>, <a href="http://facebook.com/freebloggingtricks">Facebook</a> and <a href="https://plus.google.com/109526129815752833990/">Google+</a>.
 
 </div>    
-<h1><?php echo __( 'Simple CSV Loader for Woocommerce', 'wc_csvl' );?></h1>
+<h1><?php echo __( 'Simple WooCommerce CSV Loader', 'wc_csvl' );?></h1>
 </color>
 <ul class="subsubsub">
 </ul><!-- subsubsub -->
