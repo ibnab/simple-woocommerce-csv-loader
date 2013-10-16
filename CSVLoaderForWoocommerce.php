@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Woocommerce CSV Loader
 Description: CSV loader for Woocommerce
-Version: 1.0.1
+Version: 1.0.2
 Author: promag
 License: GPL
 parent: woocommerce
