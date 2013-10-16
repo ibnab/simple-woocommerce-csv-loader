@@ -34,8 +34,9 @@ Support Blog: http://freebloggingtricks.com/import-woocommerce-csv-products-file
 
 An answer to that question.
 
-== Screenshots == http://freebloggingtricks.com/
+== Screenshots == 
 
+1. admin area
 == Changelog ==
 
 
