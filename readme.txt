@@ -20,6 +20,7 @@ Mass import hundreds, even thousands of Products into your WooCommerce store wit
 * Loads images via URL or local file path. (Now detects and skips duplicate images!)
 * Loads hierarchical category structures (see Importing Hierarchical Categories below.)
 * Lots of other great features suggested by plugin users (see Cool Stuff It/You Can Do and Full List of Importable Attributes below.)
+
 Support Blog: http://freebloggingtricks.com/import-woocommerce-csv-products-file/
 
 == Installation ==
