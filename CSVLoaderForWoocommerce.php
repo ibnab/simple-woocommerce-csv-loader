@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Woocommerce CSV Loader
 Description: CSV loader for Woocommerce
-Version: 1.0.4
+Version: 1.0.5
 Author: Ataul Ghani
 Author URI: http://freebloggingtricks.com/
 License: GPL

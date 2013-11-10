@@ -21,7 +21,7 @@ Mass import hundreds, even thousands of Products into your WooCommerce store wit
 * Loads hierarchical category structures (see Importing Hierarchical Categories below.)
 * Lots of other great features suggested by plugin users (see Cool Stuff It/You Can Do and Full List of Importable Attributes below.)
 
-Support Blog: http://freebloggingtricks.com/import-woocommerce-csv-products-file/
+Support Blog and Video Documentation: http://freebloggingtricks.com/import-woocommerce-csv-products-file/
 
 == Installation ==
 
@@ -40,7 +40,8 @@ An answer to that question.
 1. admin area
 == Changelog ==
 
-
+= 1.0.5 =
+* Fixed some bugs and video documentation added.
 
 == Upgrade notice ==
 
