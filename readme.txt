@@ -1,6 +1,6 @@
 === Simple Woocommerce CSV Loader ===
 Contributors: mag_oberon
-Donate link: http://freebloggingtricks.com/
+Donate link: http://www.wpthorp.com/
 Tags: woocommerce, csv, plugin, woocommerce csv import, csv loader, 
 Requires at least: 3.3
 Tested up to: 3.5.1
@@ -21,7 +21,7 @@ Mass import hundreds, even thousands of Products into your WooCommerce store wit
 * Loads hierarchical category structures (see Importing Hierarchical Categories below.)
 * Lots of other great features suggested by plugin users (see Cool Stuff It/You Can Do and Full List of Importable Attributes below.)
 
-Support Blog and Video Documentation: http://freebloggingtricks.com/import-woocommerce-csv-products-file/
+Support Blog: http://www.wpthorp.com/simple-woocommerce-csv-loader/
 
 == Installation ==
 
@@ -41,7 +41,7 @@ An answer to that question.
 == Changelog ==
 
 = 1.0.5 =
-* Fixed some bugs and video documentation added.
+* Fixed some bugs
 
 == Upgrade notice ==
 
