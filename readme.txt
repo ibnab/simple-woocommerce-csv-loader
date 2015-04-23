@@ -13,6 +13,9 @@ Import Categories, Tags, Images, Products and other Product details into WooComm
 == Description ==
 
 Mass import hundreds, even thousands of Products into your WooCommerce store with the CSV Import suite. CSV Import suite lets you import all types of products, even product variations!
+<blockquote>
+Support Blog: http://www.wpthorp.com/simple-woocommerce-csv-loader/
+</blockquote>
 = Simple Woocommerce CSV Loader =
 
 * A simple, CSV product loader for WooCommerce.
@@ -21,7 +24,6 @@ Mass import hundreds, even thousands of Products into your WooCommerce store wit
 * Loads hierarchical category structures (see Importing Hierarchical Categories below.)
 * Lots of other great features suggested by plugin users (see Cool Stuff It/You Can Do and Full List of Importable Attributes below.)
 
-Support Blog: http://www.wpthorp.com/simple-woocommerce-csv-loader/
 
 == Installation ==
 
