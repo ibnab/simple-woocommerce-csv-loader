@@ -1,7 +1,7 @@
 === Simple Woocommerce CSV Loader ===
 Contributors: mag_oberon
 Donate link: http://www.wpthorp.com/
-Tags: woocommerce, csv, plugin, woocommerce csv import, csv loader, 
+Tags: woocommerce, woocommerce csv importer, woocommerce product import, woocommerce csv product, csv import, csv, plugin, woocommerce csv import, csv loader, woocommerce csv, woocommerce csv import, import woocommerce csv, woocommerce csv file, woocommerce csv tool  
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag:trunk
@@ -14,7 +14,7 @@ Import Categories, Tags, Images, Products and other Product details into WooComm
 
 Mass import hundreds, even thousands of Products into your WooCommerce store with the CSV Import suite. CSV Import suite lets you import all types of products, even product variations!
 <blockquote>
-<p>Support Blog: http://www.wpthorp.com/simple-woocommerce-csv-loader/</p>
+<p>Support Blog & Pro Installation: http://www.wpthorp.com/simple-woocommerce-csv-loader/</p>
 </blockquote>
 = Simple Woocommerce CSV Loader =
 
